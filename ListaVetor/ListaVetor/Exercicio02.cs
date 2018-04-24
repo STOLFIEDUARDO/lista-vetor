@@ -8,7 +8,7 @@ namespace ListaVetor
 {
     class Exercicio02
     {
-        static void Main(string[] args)
+        static void Mainxdxdxd(string[] args)
         {
             string[] nomes = new string[10];
 
