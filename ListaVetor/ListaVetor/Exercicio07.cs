@@ -8,7 +8,7 @@ namespace ListaVetor
 {
     class Exercicio07
     {
-        static void Main(string[] args)
+        static void Main2222(string[] args)
         {
             double[] altura = new double[4];
             double menoraltura = 9999999999999;
