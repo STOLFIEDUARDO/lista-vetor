@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace ListaVetor
 {
-    class Program
+    class Exercicio03
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
